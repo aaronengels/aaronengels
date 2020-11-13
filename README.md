@@ -2,9 +2,9 @@
 
 I'm Aaron Engels, I love IT Automation and like to collaborate and share my expertise! 
 
-- 🔭 I’m currently working on a PowerShell Module for Kaseya VSA
-- 💬 Ask me about IT Automation, Remote Monitor Management (RMM) and Business Intelligence (BI)
-- 📫 Email me at aaron@aetechnologies.co.uk or contact me on [LinkedIn](https://www.linkedin.com/in/aaron-engels-92b6ab20)
+- 🔭 I’m currently working on a PowerShell Module for the Kaseya VSA REST API.
+- 💬 Ask me about IT Automation, Remote Monitor Management (RMM) and Business Intelligence (BI).
+- 📫 Email me at aaron@aetechnologies.co.uk or contact me on [LinkedIn](https://www.linkedin.com/in/aaron-engels-92b6ab20).
 
 <!--
 **aaronengels/aaronengels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
