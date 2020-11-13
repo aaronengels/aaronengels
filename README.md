@@ -3,7 +3,7 @@
 I'm Aaron Engels, I love IT Automation and like to collaborate and share my expertise! 
 
 - 🔭 I’m currently working on a PowerShell Module for Kaseya VSA
-- 💬 Ask me about Remote Management Systems, IT Automation and Data Analalitics
+- 💬 Ask me about Remote Management Systems, IT Automation and Data Analytics
 - 📫 Email me at aaron@aetechnologies.co.uk or you can find me on LinkedIn
 
 <!--
