@@ -4,7 +4,7 @@ I'm Aaron Engels, I love IT Automation and like to collaborate and share my expe
 
 - 🔭 I’m currently working on a PowerShell Module for Kaseya VSA
 - 💬 Ask me about Remote Management Systems, IT Automation and Data Analytics
-- 📫 Email me at aaron@aetechnologies.co.uk or you can find me on LinkedIn
+- 📫 Email me at aaron@aetechnologies.co.uk or you can find me on [LinkedIn](https://www.linkedin.com/in/aaron-engels-92b6ab20)
 
 <!--
 **aaronengels/aaronengels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
