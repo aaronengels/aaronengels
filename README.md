@@ -3,7 +3,7 @@
 I'm Aaron Engels, I love IT Automation and like to collaborate and share my expertise! 
 
 - 🔭 I’m currently working on a PowerShell Module for Kaseya VSA
-- 💬 Ask me about Remote Monitor Management (RMM), IT Automation and Business Intelligence
+- 💬 Ask me about IT Automation, Remote Monitor Management (RMM) and Business Intelligence (BI)
 - 📫 Email me aaron@aetechnologies.co.uk or contact me on [LinkedIn](https://www.linkedin.com/in/aaron-engels-92b6ab20)
 
 <!--
